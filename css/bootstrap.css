@@ -5126,7 +5126,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     position: relative;
     min-height: 50px;
     margin-bottom: 20px;
-    border: 1px solid transparent;
 }
 
 @media (min-width: 768px) {
@@ -5515,7 +5514,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default {
-    background-color: #f8f8f8;
     border-color: #e7e7e7;
 }
 

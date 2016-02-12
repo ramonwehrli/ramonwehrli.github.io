@@ -7,3 +7,15 @@
     background-size: cover;
     overflow: hidden;
 }
+
+@media (min-width: 768px) {
+    .post {
+       padding-right: 35%;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        padding-right: 20%
+    }
+}

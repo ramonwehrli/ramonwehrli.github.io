@@ -1423,7 +1423,7 @@ textarea {
 }
 
 a {
-    color: #337ab7;
+    color: #DB7AEE;
     text-decoration: none;
 }
 
@@ -5125,7 +5125,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar {
     position: relative;
     min-height: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 @media (min-width: 768px) {

@@ -8,6 +8,10 @@
     overflow: hidden;
 }
 
+.inline {
+    display: inline;
+}
+
 @media (min-width: 768px) {
     .post {
        padding-right: 35%;
@@ -15,7 +19,25 @@
 }
 
 @media (min-width: 992px) {
-    .container {
+    .post {
         padding-right: 20%
+    }
+}
+
+@media (min-width: 768px) {
+    .cube {
+        width: calc(100% / 2);
+    }
+}
+
+@media (min-width: 992px) {
+    .cube {
+        width: calc(100% / 3);
+    }
+}
+
+@media (min-width: 1200px) {
+    .cube {
+        width: calc(100% / 4);
     }
 }

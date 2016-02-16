@@ -4,7 +4,6 @@ title:  "Projektantrag besser lernen Ramon Wehrli"
 date:   2016-02-16 14:19:00 +0100
 categories: jekyll update
 ---
-# Projektantrag besser lernen Ramon Wehrli
 ####Ausgangslage: 
 Momentan lerne ich immer ein Tag vor den Prüfungen meist sogar am Morgen im Zug oder in der Mittagspause. Es wäre mit früher lernen einfach möglich bessere Noten zu schreiben und somit mein Zeugnis zu verbessern.
 ####Gestaltungsbereich/Gestaltunginhalt

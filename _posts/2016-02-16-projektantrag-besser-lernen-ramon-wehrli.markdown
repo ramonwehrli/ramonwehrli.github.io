@@ -17,10 +17,12 @@ Sollte vor dem nächsten Test umgestellt werden und direkt ausgeführt.
 Mindestens 2 Wochen vor dem nächsten Test beginnen zu lernen. Jeden Tag 15 Minute um ein gutes Ergebnis zu erzeugen
 ####Termine
 Das Projekt streckt sich pro Test auf 2 Wochen aus.
+
 1. Meilenstein: 2 Wochen vor dem Test beginnen mit lernen.
-2.  Meilenstein: Bis zu Test jeden Tag 15 Minuten lernen.
-3.  Meilenstein: Test mit gutem Gefühl schreiben und Abgeben.
-4.  Meilenstein: Note über einem 5er zurückbekommen.
+2. Meilenstein: Bis zu Test jeden Tag 15 Minuten lernen.
+3. Meilenstein: Test mit gutem Gefühl schreiben und Abgeben.
+4. Meilenstein: Note über einem 5er zurückbekommen.
+
 ####Begründung der Attraktivität
 Nach der Einführung dieser neuen Lernstrategie werde ich jeden Tag lediglich 15 Minuten lerne müssen und nichts mehr vor dem Test anschauen.
 Auch werden hoffentlich meine Noten steigen und so vielleicht sogar ein 5.5 Schnitt möglich.

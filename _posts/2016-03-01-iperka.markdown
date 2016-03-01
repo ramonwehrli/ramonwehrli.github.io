@@ -5,6 +5,7 @@ date:   2016-03-01 14:07:00 +0100
 categories: jekyll update
 test: "test"
 ---
+##### Beischreibung des IPERKA Models mit praktischen Bespielen.
 #### Informationen beschaffen
 Hier werden Informationen zum Projekt gesammelt. Meist wird hier ein kunde befragt oder sich selbst.
 Die Fragen sollten möglichst konkret sein so das sie von jedem Interpretiert werden können. Das gleiche

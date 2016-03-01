@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "IPERKA"
+date:   2016-03-01 14:07:00 +0100
+categories: jekyll update
+test: "test"
+---
+#### Informationen beschaffen
+Hier werden Informationen zum Projekt gesammelt. Meist wird hier ein kunde befragt oder sich selbst.
+Die Fragen sollten möglichst konkret sein so das sie von jedem Interpretiert werden können. Das gleiche
+gilt für die Antworten. Hier wird z.B. das Budget herausgefunden das der Kunden verfügt. Man könnte
+sich aber auch über neue Software informieren die man vor hat zu benutzen. Hier kann vor allem [Google]
+als Tool hilfreich sein.
+
+#### Planen
+Nun hier wird könnte das Budget reingehören falls man für dies keine Vorgabe hat. Jedoch wann man diese
+Besitzt müsste man hier planen wie viele Arbeiter und Stunden dieser benutzt. Auch könnte man hier ver-
+schiedene Setups erplanen die passen könnten z.B. bei einem neuen Haus dessem Farbkombinationen.
+
+#### Entscheiden
+Wenn man sich im obersten Bereich über neue Software informiert hat wird man wahrscheinlich merken dases
+mehrere Anbieter für ähnliche Software gibt. Darum muss man sich irgendwann entscheiden dass passiert in
+diesem Schritt. Hier passen Pro / Kontra Listen rein da man die best Passen lösung finden will. Wenn sie
+finden dass ein Blau / Weisses Haus schön ist und ein Rotes werden sie hier auswählen was besser ist.
+
+#### Realisieren
+Na klar das Haus wird Rot aber von selbst Malen in der gewünschten Farbe tut es sich doch nicht. Darum
+wird dies hier getan. Es wird so einfach wie es klingt grundsätzlich das Projekt realisiert.
+
+#### Kontrollieren
+So ihr Haus steht in seiner vollen Pracht, aber ist es wirklich der Richtige Rotton oder muss man hier
+noch was ändern. Hier muss man genau hinschauen denn Fehler könnten erst später auftauchen die man jetzt
+noch nicht realisiert. Fremdkontrolle ist definitiv emfpholen vielleich holen sie ihren Nachbarn da der
+früher mal Maler war, er könnte ihnen z.B. sagen dass diese Farbe eine schlechte Qualität hat und man
+sie besser ersetzt.
+
+#### Auswerten
+Dieser Schritt kommt zum Zug wenn ihr Projekt entgültig fertig ist. Bei unserem Hausbeispiel wäre das,
+ist der Maler denn ich genommen habe gut gewesen oder würden ich nächstes mal eher jemanden anderes
+nehmen. Ist die Verkabelung die ich gemacht habe im Haus gut oder eher "meeh".
+
+[Google]: <http://google.ch>

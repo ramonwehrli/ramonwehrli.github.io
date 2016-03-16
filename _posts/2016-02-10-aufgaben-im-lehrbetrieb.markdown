@@ -4,6 +4,7 @@ title:  "Aufgaben im Lehrbetrieb"
 date:   2016-02-10 14:55:16 +0100
 categories: jekyll update
 test: "test"
+picture: "1.jpeg"
 ---
 Da ich im im [BLJ] bin bekomme ich jede Woche ein Ämtli zugeteilt. Diese bekommen wir in einem Google Drive Dokument zu geteilt. Zu den Sachmitteln gehört z.B. der Staubsauger. Ich finde dies nicht schlimm auch wenn es ziemlich wenig mit Informatik zu tun hat, da es auch eine gewisse Abwechslung bringt. Die eigentliche Arbeit die wir verichten ist in Äufträgen festgehalten welche wir auf unsere [Moodle] Platform bereitgestellt bekommen.
 #### Unterschied Aufgabe, Auftrag

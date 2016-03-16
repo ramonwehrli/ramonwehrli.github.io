@@ -41,3 +41,8 @@
         width: calc(100% / 4);
     }
 }
+
+.jumbotron {
+    size: cover;
+    width: 100%;
+}

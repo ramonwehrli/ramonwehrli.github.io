@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ####Vorlage Lehrbetrieb
 Im Basislehrjahr werden Besprechungsprotokolle für die Projektphase in unserem Projekttool Open Project eingetragen.
@@ -12,3 +12,5 @@ Im Basislehrjahr werden Besprechungsprotokolle für die Projektphase in unserem 
         </a>
     </p>
 </div>
+
+#### Erfahrungen

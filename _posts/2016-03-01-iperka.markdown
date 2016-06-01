@@ -15,8 +15,7 @@ als Tool hilfreich sein.
 
 #### Planen
 Nun hier wird könnte das Budget reingehören falls man für dies keine Vorgabe hat. Jedoch wann man diese
-Besitzt müsste man hier planen wie viele Arbeiter und Stunden dieser benutzt. Auch könnte man hier ver-
-schiedene Setups erplanen die passen könnten z.B. bei einem neuen Haus dessem Farbkombinationen.
+Besitzt müsste man hier planen wie viele Arbeiter und Stunden dieser benutzt. Auch könnte man hier verschiedene Setups erplanen die passen könnten z.B. bei einem neuen Haus und dessen Farbkombinationen.
 
 #### Entscheiden
 Wenn man sich im obersten Bereich über neue Software informiert hat wird man wahrscheinlich merken dases

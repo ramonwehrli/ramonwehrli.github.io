@@ -11,10 +11,10 @@ Im Basislehrjahr werden Besprechungsprotokolle für die Projektphase in unserem 
 <div class="thumbnail">
 	<img src="http://4.bp.blogspot.com/-UpnDGrF3OEY/VHw6CBn4_jI/AAAAAAAAAGM/vzgpVUw2Jic/s1600/A03-Backlogs-NoShadow.png" class="img-responsive">
 	<p class="text-center">
-    	<a href="https://www.openproject.org/de/">
-        	Openproject
-        </a>
-    </p>
+		<a href="https://www.openproject.org/de/">
+			Openproject
+		</a>
+	</p>
 </div>
 
 #### Erfahrungen

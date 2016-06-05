@@ -13,7 +13,7 @@ Hier kann dieser Zyklus echt helfen. Diese Methode kannte ich zum Glück schon v
 Bei den verschiedenen Lernmethoden finde ich Mindmaps toll, falls diese sich anbieten. Ansonsten verwende ich gerne Zusammenfassungen. Mit Karteikarten kann ich leider nicht sehr viel anfangen, da ich diese zu langweilig finde.
 
 ####Lernvertrag/Lernjournal
-Der Lernvertrag ist nichts für mich, denn hier ist es relativ einfach, dass Vorgegebene nicht zu erledigen. Ich finde jedoch das Lernjournal nicht schlecht, welches auch sehr gross ist bei mir.
+Der Lernvertrag ist nichts für mich, denn hier ist es relativ einfach, das Vorgegebene nicht zu erledigen. Ich finde jedoch das Lernjournal nicht schlecht, welches auch sehr gross ist bei mir.
 
 ####Brainstorming
 Brainstorming allein ist nichts für mich. Ich benutze es aber sehr gerne mit Mindmaps, da man beim Brainstorming einfach besser voran kommt. Nach dem Brainstorming erstelle ich dann am Computer einfach ein schönes Mindmap.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Informationen strukturieren"
-date:   2016-03-08 16:02:00 +0100
+date:   2016-01-07 00:00:00 +0100
 categories: jekyll update
 test: "test"
 ---

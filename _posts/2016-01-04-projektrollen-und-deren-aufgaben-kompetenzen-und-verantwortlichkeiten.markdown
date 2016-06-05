@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Projektrollen und deren Aufgaben, Kompetenzen und Verantwortlichkeiten"
-date:   2016-02-23 15:57:00 +0100
+date:   2016-01-04 00:00:00 +0100
 categories: jekyll update
 test: "test"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Phasenablauf IT-Projekt"
-date:   2016-02-23 15:01:00 +0100
+date:   2016-01-05 15:01:00 +0100
 categories: jekyll update
 test: "test"
 ---

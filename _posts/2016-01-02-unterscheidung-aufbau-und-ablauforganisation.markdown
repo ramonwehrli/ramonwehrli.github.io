@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unterscheidung: Aufbau- und Ablauforganisation"
-date:   2016-02-09 14:55:16 +0100
+date:   2016-01-02 00:00:00 +0100
 categories: jekyll update
 test: "test"
 picture: "1.jpeg"

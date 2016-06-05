@@ -27,13 +27,13 @@ Im Moment plane ich meinen Tag mit dem Projektmanagment Tool Openproject. Dort m
 	</p>
 </div>
 
-Eine Woche lang habe ich meine Planung mit der ALPEN-Methode gemacht. Diese weist eine grosse Ähnlichkeiten mit dem auf, was ich bis jetzt mache. Bei der ALPEN Methode muss ich die Prioritäten setzen. Nur 60% der Arbeitszeit einplanen, ist natürlich ein bisschen spezifischer, wie einfach direkt die Zeit schätzen.
+Eine Woche lang habe ich meine Planung mit der ALPEN-Methode gemacht. Diese weist eine grosse Ähnlichkeiten mit dem auf, was ich bis jetzt mache. Bei der ALPEN Methode muss ich die Prioritäten setzen. Nur 60% der Arbeitszeit einplanen ist natürlich ein bisschen spezifischer, wie einfach direkt die Zeit schätzen.
 
 ##### Erfahrungen
-Weil ich nur 60% verplant hatte von meinen Tagen, musste ich oft neue Aufgaben eintragen weil ich übrige Zeit hatte. Ich fand auch das Prioritäten setzen im Moment nicht sehr nützlich für mich. Meine Aufgaben bauen aufeinander auf. Somit hat eine Aufgabe immer Priorität und muss zuerst erledigt werden.
+Da ich nur 60% meiner Arbeitszeit verplant hatte, musste ich oft weitere Aufgaben eintragen. Ich fand auch das Prioritäten setzen im Moment nicht sehr nützlich für mich. Meine Aufgaben bauen aufeinander auf. Somit hat eine Aufgabe immer Priorität und muss zuerst erledigt werden.
 
 ##### Lohnt sich die Tagesplanung?
-Die Tagesplanung lohnt sich definitiv. Vor allem in einem Projekt, wo es schlussendlich auch ums Geld geht.
+Die Tagesplanung lohnt sich definitiv. Vor allem in einem Projekt, bei dem es schlussendlich auch um viel Geld geht.
 
 ##### Welche Tools verwende ich für meine Tagesplanung
 Bei der Arbeit werde ich weiter das vorgeschrieben Openproject benutzen. Zuhause bin ich ein grosser Fan von Nozbe.

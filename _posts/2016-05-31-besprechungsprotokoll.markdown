@@ -18,4 +18,4 @@ Im Basislehrjahr werden Besprechungsprotokolle für die Projektphase in unserem 
 </div>
 
 #### Erfahrungen
-Bei der letzten Besprechung habe ich ein Protokoll geschrieben. Die Besprechung war nicht sehr lange und dem entsprechend auch das Protokol kurz.
+Bei der letzten Besprechung habe ich ein Protokoll geschrieben. Die Besprechung war nicht sehr lange, dementsprechend viel auch das Protokol eher kurz aus.

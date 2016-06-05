@@ -25,4 +25,4 @@ Ich persönlich bin kein grosser Fan von Brainwriting, da es für mich einfach n
 Das gleiche Problem sehe ich auch hier, weil man zu schnell auf Abstrakte Ideen kommt.
 
 ####Mindmap
-Ich bin ein riesiger Fan von Mindmaps. Vor allem solche die am Computer erstellt werden. Sie sind einfach zu verwalten und danach auch einfach zu lesen. Ein absoluter Favorit von mir. 
+Ich bin ein riesiger Fan von Mindmaps. Vor allem solche, die am Computer erstellt werden. Sie sind einfach zu verwalten und danach auch einfach zu lesen. Ein absoluter Favorit von mir. 

@@ -18,7 +18,7 @@ test: "test"
 
 ##### Die ALPEN Methode
 
-Im Moment plane ich meinen Tag mit dem Projektmanagment Tool Openproject. Dort mache ich mir Tasks und schätze die Zeit. Man kann für diese dann auch Prioritäten setzen und den Fortschritt speichern. Im Nachhinein buche ich dann noch die Zeit, die ich wirklich gebraucht habe.
+Im Moment plane ich meinen Tag mit dem Projektmanagment Tool Openproject. Dort mache ich mir Tasks und schätze die Zeit. Man kann für diese dann auch Prioritäten setzen und den Fortschritt speichern. Im Nachhinein verbuche ich dann noch die Zeit, die ich wirklich gebraucht habe.
 
 <div class="thumbnail">
 	<img src="http://www.landsiedel-seminare.de/images/alpen-methode.jpg" class="img-responsive">
@@ -33,7 +33,7 @@ Eine Woche lang habe ich meine Planung mit der ALPEN-Methode gemacht. Diese weis
 Da ich nur 60% meiner Arbeitszeit verplant hatte, musste ich oft weitere Aufgaben eintragen. Ich fand auch das Prioritäten setzen im Moment nicht sehr nützlich für mich. Meine Aufgaben bauen aufeinander auf. Somit hat eine Aufgabe immer Priorität und muss zuerst erledigt werden.
 
 ##### Lohnt sich die Tagesplanung?
-Die Tagesplanung lohnt sich definitiv. Vor allem in einem Projekt, bei dem es schlussendlich auch um viel Geld geht.
+Die Tagesplanung lohnt sich definitiv. Vor allem in einem Projekt, in dem es schlussendlich auch um viel Geld geht.
 
 ##### Welche Tools verwende ich für meine Tagesplanung
 Bei der Arbeit werde ich weiter das vorgeschrieben Openproject benutzen. Zuhause bin ich ein grosser Fan von Nozbe.

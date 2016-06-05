@@ -13,6 +13,7 @@ Hier kann dieser Zyklus echt helfen. Diese Methode kannte ich zum Glück schon v
 Bei den verschiedenen Lernmethode bin ich echt ein Fan von Mindmaps falls diese sich anbieten und wenn nicht dann Zusammenfassungen. Mit Karteikarten kann ich leider nicht sehr viel anfange da ich diese zu "fad" finde.
 
 ####Lernvertrag/Lernjournal
+Der Lernvertrag ist nichts für mich denn hier kann man relativ einfach das Vorgegebene nicht machen.
 
 ####Brainstorming
 

@@ -16,7 +16,7 @@ Bei den verschiedenen Lernmethoden finde ich Mindmaps toll, falls diese sich anb
 Der Lernvertrag ist nichts für mich, denn hier ist es relativ einfach, dass Vorgegebene nicht zu erledigen. Ich finde jedoch das Lernjournal nicht schlecht, welches auch sehr gross ist bei mir.
 
 ####Brainstorming
-Brainstorming allein ist nichts für mich. Ich benutze es sehr gerne mit Mindmaps, da man beim Brainstorming einfach besser voran kommt. Nach dem Brainstorming erstelle ich dann am Computer einfach ein schönes Mindmap.
+Brainstorming allein ist nichts für mich. Ich benutze es aber sehr gerne mit Mindmaps, da man beim Brainstorming einfach besser voran kommt. Nach dem Brainstorming erstelle ich dann am Computer einfach ein schönes Mindmap.
 
 ####Brainwriting 635
 Ich persönlich bin kein grosser Fan von Brainwriting da es für mich einfach nicht funktioniert. Die vorgegeben Zeit finde ich sehr störend und man kann sich viel zu leicht ablenken lassen.

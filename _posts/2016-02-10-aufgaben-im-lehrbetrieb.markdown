@@ -6,7 +6,7 @@ categories: jekyll update
 test: "test"
 picture: "1.jpeg"
 ---
-Da ich im im [BLJ] bin, bekomme ich jede Woche ein "Ämtli" zugeteilt. Diese bekommen wir in einem Google Drive Dokument zugestellt. Zu den Sachmitteln gehört z.B. der Staubsauger. Ich finde das nicht schlimm, auch wenn es ziemlich wenig mit Informatik zu tun hat. Es bringt auch eine gewisse Abwechslung. Die eigentliche Arbeit die wir verichten, ist in Aufträgen festgehalten, welche wir auf unserer [Moodle] Plattform bereitgestellt bekommen. Ein typischer Auftrag kann wie folgt aussehen:
+Da ich im im [BLJ] bin, bekomme ich jede Woche ein "Ämtli" zugeteilt. Dieses bekommen wir in einem Google Drive Dokument zugestellt. Zu den Sachmitteln gehört z.B. der Staubsauger. Ich finde das nicht schlimm, auch wenn es ziemlich wenig mit Informatik zu tun hat. Es bringt auch eine gewisse Abwechslung. Die eigentliche Arbeit die wir verichten, ist in Aufträgen festgehalten, welche wir auf unserer [Moodle] Plattform bereitgestellt bekommen. Ein typischer Auftrag kann wie folgt aussehen:
 >PHP kennt Array und kann diese auch abrufen. Ein Array selber ist keine grosse Sache. Erstelle ein zweidimensionales Array und gebe es in einer Tabelle aus ohne Datenbank. Benutze die foreach-Schlaufe um die Tabelle zu erstellen. Die Tabelle besteht aus Name und Vorname von Personen. Fülle das Array so, dass mindestens 5 Personen auf der Tabelle erscheinen.
 
 Danach müssen wir diesen Auftrag fertigstellen. In diesem Fall den Code auf [Moodle] abgeben.

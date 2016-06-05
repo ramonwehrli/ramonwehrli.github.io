@@ -10,7 +10,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 <div class="panel panel-default">
 	<div class="panel-heading">Projektleiter</div>
 	<div class="panel-body">
-		<p>ist verantwortlicher des Projekts und Verteiler der Aufgaben</p>
+		<p>Verantwortlicher des Projekts und Vergeber der Aufgaben</p>
 	</div>
 	<table class="table">
 		<tr>
@@ -39,7 +39,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			</td>
 			<td>
 				<ul>
-					<li>gesamte Verantwortung für das Projekt.</li>
+					<li>gesamte Verantwortung des Projekts</li>
 				</ul>
 			</td>
 		</tr>
@@ -49,7 +49,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 <div class="panel panel-default">
 	<div class="panel-heading">Entwickler</div>
 	<div class="panel-body">
-		<p>Ist der eigentliche Produzent eines IT-Projektes.</p>
+		<p>Ist der eigentliche Produzent eines IT-Projekts.</p>
 	</div>
 	<table class="table">
 		<tr>
@@ -65,7 +65,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			<td>Kompetenzen</td>
 			<td>
 				<ul>
-					<li>Qualifiziert für das Projekt</li>
+					<li>qßualifiziert für das Projekt</li>
 				</ul>
 			</td>
 		</tr>
@@ -92,7 +92,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			<td>
 				<ul>
 					<li>Produkt testen</li>
-					<li>Feedback an Entwickler</li>
+					<li>Feedback an Entwickler geben</li>
 				</ul>
 			</td>
 		</tr>
@@ -108,7 +108,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			<td>Verantwortungen</td>
 			<td>
 				<ul>
-					<li>Produkt zu verbessern</li>
+					<li>Produkt verbessern</li>
 					<li>keine Fehler durchgehen lassen</li>
 				</ul>
 			</td>
@@ -149,7 +149,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 <div class="panel panel-default">
 	<div class="panel-heading">Auftraggeber</div>
 	<div class="panel-body">
-		<p>Gibt den Auftrag.</p>
+		<p>Erteilt den Auftrag.</p>
 	</div>
 	<table class="table">
 		<tr>
@@ -166,7 +166,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			<td>Kompetenzen</td>
 			<td>
 				<ul>
-					<li>ausreichend Finanzielle Mittel</li>
+					<li>ausreichend Finanzielle Mittel zur verfügung</li>
 					<li>Auftrag aufgeben</li>
 				</ul>
 			</td>
@@ -175,7 +175,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			<td>Verantwortungen</td>
 			<td>
 				<li>Abnahme des Projekts</li>
-				<li>Finanzierung des Projekt</li>
+				<li>Finanzierung des Projekts</li>
 			</td>
 		</tr>
 	</table>

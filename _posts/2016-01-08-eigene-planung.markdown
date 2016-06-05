@@ -18,7 +18,7 @@ test: "test"
 
 ##### Die ALPEN Methode
 
-Im Moment plane ich meinen Tag mit dem Projektmanagment Tool Openproject. Dort mache ich mir Tasks und schätze die Zeit. Man kann für diese dann auch Prioritäten setzen und den Fortschritt speichern. Im nachhinein buche ich dann noch die Zeit, die ich wirklich gebraucht habe.
+Im Moment plane ich meinen Tag mit dem Projektmanagment Tool Openproject. Dort mache ich mir Tasks und schätze die Zeit. Man kann für diese dann auch Prioritäten setzen und den Fortschritt speichern. Im Nachhinein buche ich dann noch die Zeit, die ich wirklich gebraucht habe.
 
 <div class="thumbnail">
 	<img src="http://www.landsiedel-seminare.de/images/alpen-methode.jpg" class="img-responsive">

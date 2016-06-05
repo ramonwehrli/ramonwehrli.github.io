@@ -22,7 +22,7 @@ Brainstorming allein ist nichts für mich. Ich benutze es aber sehr gerne mit Mi
 Ich persönlich bin kein grosser Fan von Brainwriting, da es für mich einfach nicht funktioniert. Die vorgegeben Zeit finde ich sehr störend und man kann sich viel zu leicht ablenken lassen.
 
 ####Morphologischer Kasten
-Das gleiche Problem sehe ich auch hier und zwar dass man zu schnell auf Abstrakte Ideen kommt.
+Das gleiche Problem sehe ich auch hier, weil man zu schnell auf Abstrakte Ideen kommt.
 
 ####Mindmap
-Ich bin ein Riesen Fan von Mindmaps vor allem solche die am Computer erstellt werden. Sie sind einfach zu verwalten und danach auch einfach zulesen. Ein absoluter Favorit von mir. 
+Ich bin ein riesiger Fan von Mindmaps. Vor allem solche die am Computer erstellt werden. Sie sind einfach zu verwalten und danach auch einfach zulesen. Ein absoluter Favorit von mir. 

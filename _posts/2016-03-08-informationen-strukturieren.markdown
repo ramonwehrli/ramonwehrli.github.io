@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Informationen Strukturieren"
+title:  "Informationen strukturieren"
 date:   2016-03-08 16:02:00 +0100
 categories: jekyll update
 test: "test"
 ---
 #### Mindmaps
-Um Informationen schnell auf ein Blatt zu bekommen und zu ordnen sind Mindmaps mein Favorit. Die visuelle Struktur hilft beim aufnehmen der Informationen. Leider kann es relativ aufwendig sein, alles so vorzuplanen, das man für jeden Zweig genug Platz hat. Mindmaps können aber nicht überall verwendet werden. Uum Beispiel für eine Mathezusammenfassung sind sie sehr ungeeignet.
+Um Informationen schnell auf ein Blatt zu bekommen und zu ordnen, sind Mindmaps mein Favorit. Die visuelle Struktur hilft beim aufnehmen der Informationen. Leider kann es relativ aufwendig sein alles so vorzuplanen, das man für jeden Zweig genug Platz hat. Mindmaps können aber nicht überall verwendet werden. Zum Beispiel für eine Mathezusammenfassung sind sie sehr ungeeignet.
 
 <div class="thumbnail">
 	<img src="https://infode.examtime.com/files/2012/11/Tipps-zum-Erstellen-von-Mindmaps.png" class="img-responsive">
@@ -18,7 +18,7 @@ Um Informationen schnell auf ein Blatt zu bekommen und zu ordnen sind Mindmaps m
 </div>
 
 #### Brainstorming
-Bei Brainstorming geht es darum möglichst viele Ideen niederzuschreiben. Dies benutze ich höchstens in Verbindung mit Mindstorms, Zuerst Brainstorming und dann das Niedergeschriebene in einem schönen Mindstorm auf dem PC strukturieren und auswerten.
+Bei Brainstorming geht es darum, möglichst viele Ideen niederzuschreiben. Ich benutze es höchstens in Verbindung mit Mindstorms, Zuerst mache ich ein Brainstorming und dann strukturiere ich den Inhalt in einem schönen Mindstorm auf meinem PC.
 <div class="thumbnail">
 	<img src="http://goalsandachievements.com/wp-content/uploads/2013/12/brainstorming-design-engine.png" class="img-responsive">
 	<p class="text-center">

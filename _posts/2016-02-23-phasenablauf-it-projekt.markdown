@@ -5,13 +5,13 @@ date:   2016-02-23 15:01:00 +0100
 categories: jekyll update
 test: "test"
 ---
-#### Fünf Auftäge aus dem Lerhbetrieb
+#### Fünf Auftäge aus dem Lehrbetrieb
 ##### Webseite im ÜK für Tesla: Realisierung
 Im ÜK M101 konnten wir uns für ein Thema unserer Webseite entscheiden. Ich wählte [Tesla]. Wir mussten mehrere Produkte erstellen und ein Merhspaliges Layout designen. 
 ##### ESX Server aufsetzen: Realisierung
 Um ein VM Netzwerk einzurichten, in dem wir [Sophos] Firewall benutzen konnten, mussten wir ein ESX Server installieren und einrichten.
 ##### Oursourcing Bülach: Realisierung
-Mit unserem Lehrbetrieb konnten wir an einem Ausseneinsatz in Bülach arbeiten. Jeder Gemeindsangestellte bekam einen neuen Computer, den wir auch verkabeln mussten.
+Mit unserem Lehrbetrieb konnten wir an einem Ausseneinsatz in Bülach arbeiten. Jeder Gemeindsangestellte bekam einen neuen Computer, den wir auch installieren und einrichten mussten.
 ##### Datenbank [ERD] für CS:GO Datenbank: Konzept
 Nachdem wir im [BLJ] [MySQL] Datenbanken angeschaut haben, konnten wir ein eigenes Projekt realisieren. Das Projekt musste zuerst geplant werden. Dafür haben wir [ERD]s gezeichnet.
 ##### Initialisierung

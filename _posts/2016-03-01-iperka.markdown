@@ -14,28 +14,25 @@ sich aber auch über neue Software informieren, die man benutzen möchte. Hier k
 als Tool hilfreich sein.
 
 #### Planung
-Hier könnte das Budget reingehören, falls man dafür keine Vorgabe hat. Wenn man dieses jedoch vorgegeben hat, müsste man hier planen, wie viele Arbeitsstunden der Auftrag ergibt. Man könnte hier auch verschiedene Setups einplanen, die passen könnten z.B. bei einem neuen Haus und dessen Farbkombinationen.
+Hier könnte das Budget reingehören, falls man dafür keine Vorgabe hat. Wenn man dieses jedoch vorgegeben hat, müsste man hier planen, wie viele Arbeitsstunden der Auftrag ergibt. Man könnte hier auch verschiedene Setups einplanen, z.B. Farbkombinationen eines neuen Hauses.
 
 #### Entscheidung
-Wenn man sich im obersten Bereich über neue Software informiert hat, wird man wahrscheinlich merken, dass es
-mehrere Anbieter für ähnliche Software gibt. Darum muss man sich irgendwann entscheiden. Das geschieht in
-diesem Schritt. Hier passen Pro / Kontra Listen rein. Da man die am besten passende Lösung finden will. Wenn sie
-finden dass ein Blau / Weisses Haus schön ist und ein Rotes auch, werden sie hier auswählen was besser ist.
+Wenn man sich im bei der Informationsbeschaffung über eine neue Software informiert hat, wird man wahrscheinlich merken, dass es
+mehrere Anbieter für ähnliche Software gibt. Jemand muss die Entscheidung treffen. Das geschieht in
+diesem Schritt. Hier passen Pro / Kontra Listen rein. Er entscheidet ob ein rotes oder blauen Haus besser ins Ortsbild passt.
 
 #### Realisierung
-Na klar, das Haus wird rot. Aber von selbst Malen in der gewünschten Farbe tut es sich doch nicht. Darum
-wird dies hier getan. Es wird, so einfach wie es klingt, grundsätzlich das Projekt realisiert.
+Na klar, das Haus wird rot. Aber von selbst in der gewünschten Farbe malen tut es sich doch nicht. Darum
+wird dies hier getan. Es wird, so einfach es klingt, grundsätzlich das Projekt realisiert.
 
 #### Kontrolle
-So ihr Haus steht in seiner vollen Pracht. Aber ist es wirklich der Richtige Rotton, oder muss man hier
-noch was ändern. Hier muss man genau hinschauen, denn Fehler könnten erst später auftauchen, die man jetzt
-noch nicht realisiert hat. Fremdkontrolle ist definitiv emp­foh­len. Vielleicht ziehen sie ihren Nachbarn zu rate, da der
-früher mal Maler war. Er könnte ihnen z.B. sagen, dass diese Farbe eine schlechte Qualität hat und man
-sie besser ersetzt.
+So, ihr Haus steht in seiner vollen Pracht. Aber ist es wirklich der richtige Farbton, muss hier noch etwas angepasst werden. Hier muss man genau hinschauen. Fehler könnten erst später auftauchen, die man jetzt
+noch nicht realisiert hat. Denn Fremdkontrolle ist definitiv zu emp­fehlen. Vielleicht ziehen sie ihren Nachbarn zu rate, da der
+früher mal Maler war. Er könnte ihnen z.B. den Hinweis geben, dass diese Farbe eine schlechte Qualität hatt.
 
 #### Auswertung
 Dieser Schritt kommt zum Zug, wenn ihr Projekt entgültig fertig ist. Bei unserem Hausbeispiel sähe das so aus:
-Ist der Maler denn ich genommen habe gut gewesen oder würden ich nächstes mal eher jemanden anderes?
-nehmen. Ist die Verkabelung die gemacht wurde im Haus gut oder eher schwach.
+Ist der Maler, denn ich angestellt haben, gut gewesen oder würden ich nächstes mal eher jemanden anderes
+nehmen? Ist die Verkabelung im Haus zufriedenstellend gemacht worden.
 
 [Google]: <http://google.ch>

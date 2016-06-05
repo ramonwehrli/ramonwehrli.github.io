@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vortäge Problemlöse- Kreativitäts- und Lerntechnik Modul 431"
+title:  "Vorträge Problemlöse- Kreativitäts- und Lerntechnik Modul 431"
 date:   2016-01-10 00:00:00 +0100
 categories: jekyll update
 test: "test"

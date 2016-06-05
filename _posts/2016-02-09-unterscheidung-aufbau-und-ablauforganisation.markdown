@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unterscheidung Aufbau- und Ablauforganisation"
+title:  "Unterscheidung: Aufbau- und Ablauforganisation"
 date:   2016-02-09 14:55:16 +0100
 categories: jekyll update
 test: "test"

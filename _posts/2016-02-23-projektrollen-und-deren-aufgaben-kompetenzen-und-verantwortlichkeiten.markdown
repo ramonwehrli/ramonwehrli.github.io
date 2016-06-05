@@ -14,7 +14,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 	</div>
 	<table class="table">
 		<tr>
-			<td>Aufgabe</td>
+			<td>Aufgaben</td>
 			<td>
 				<ul>
 					<li>Leitung des Projekts</li>
@@ -24,7 +24,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			</td>
 		</tr>
 		<tr>
-			<td>Kompetenz</td>
+			<td>Kompetenzen</td>
 			<td>
 				<ul>
 					<li>Aufgaben erstellen</li>
@@ -35,7 +35,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 		</tr>
 		<tr>
 			<td>
-				Verantwortung
+				Verantwortungen
 			</td>
 			<td>
 				<ul>
@@ -53,7 +53,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 	</div>
 	<table class="table">
 		<tr>
-			<td>Aufgabe</td>
+			<td>Aufgaben</td>
 			<td>
 				<ul>
 					<li>Entwicklung des Projekts</li>
@@ -62,7 +62,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			</td>
 		</tr>
 		<tr>
-			<td>Kompetenz</td>
+			<td>Kompetenzen</td>
 			<td>
 				<ul>
 					<li>Qualifiziert für das Projekt</li>
@@ -70,7 +70,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			</td>
 		</tr>
 		<tr>
-			<td>Verantwortung</td>
+			<td>Verantwortungen</td>
 			<td>
 				<ul>
 					<li>gut geschriebenes Programm</li>
@@ -88,7 +88,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 	</div>
 	<table class="table">
 		<tr>
-			<td>Aufgabe</td>
+			<td>Aufgaben</td>
 			<td>
 				<ul>
 					<li>Produkt testen</li>
@@ -97,7 +97,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			</td>
 		</tr>
 		<tr>
-			<td>Kompetenz</td>
+			<td>Kompetenzen</td>
 			<td>
 				<ul>
 					<li>Produkt-Test</li>
@@ -105,7 +105,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			</td>
 		</tr>
 		<tr>
-			<td>Verantwortung</td>
+			<td>Verantwortungen</td>
 			<td>
 				<ul>
 					<li>Produkt zu verbessern</li>
@@ -123,21 +123,21 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 	</div>
 	<table class="table">
 		<tr>
-			<td>Aufgabe</td>
+			<td>Aufgaben</td>
 			<td>
 				<li>Systemkomponenten definieren</li>
 				<li>Schnittstellen entwerfen</li>
 			</td>
 		</tr>
 		<tr>
-			<td>Kompetenz</td>
+			<td>Kompetenzen</td>
 			<td>
 				<li>Anordnungskompetenz</li>
 				<li>Systemarchitektur entscheiden</li>
 			</td>
 		</tr>
 		<tr>
-			<td>Verantwortung</td>
+			<td>Verantwortungen</td>
 			<td>
 				<li>technische Verantwortung</li>
 				<li>Architekturvorgaben einhalten</li>
@@ -153,7 +153,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 	</div>
 	<table class="table">
 		<tr>
-			<td>Aufgabe</td>
+			<td>Aufgaben</td>
 			<td>
 				<ul>
 					<li>gibt Projektauftrag</li>
@@ -163,7 +163,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			</td>
 		</tr>
 		<tr>
-			<td>Kompetenz</td>
+			<td>Kompetenzen</td>
 			<td>
 				<ul>
 					<li>ausreichend Finanzielle Mittel</li>
@@ -172,7 +172,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			</td>
 		</tr>
 		<tr>
-			<td>Verantwortung</td>
+			<td>Verantwortungen</td>
 			<td>
 				<li>Abnahme des Projekts</li>
 				<li>Finanzierung des Projekt</li>

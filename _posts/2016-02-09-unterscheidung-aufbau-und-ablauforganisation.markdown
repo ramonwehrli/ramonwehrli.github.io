@@ -7,7 +7,7 @@ test: "test"
 picture: "1.jpeg"
 ---
 #### Aufbauorganisation
-Eine Aufbauorganisation kann z.B. das hierarchische Gerüst einer Firma darstellen. Sie legt Bedingungen für Aufgaben und Zuständigkeiten fest. Ein Beispiel für ein hierarchisches Gerüst, unseres Lehrbetriebs [VRSG] sit in diesem Fall ein Organigramm.
+Eine Aufbauorganisation kann z.B. das hierarchische Gerüst einer Firma darstellen. Sie legt Bedingungen für Aufgaben und Zuständigkeiten fest. Ein Beispiel für ein hierarchisches Gerüst unseres Lehrbetriebs [VRSG] ist in diesem Fall ein Organigramm.
 
 #### Ablauforganisation
 Die Ablauforganisation ist der Ablauf von Arbeitsprozessen. Hier werden Raum, Sachmittel, Zeit und Personen berücksichtigt.

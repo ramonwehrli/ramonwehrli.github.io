@@ -5,12 +5,12 @@ date:   2016-02-23 15:57:00 +0100
 categories: jekyll update
 test: "test"
 ---
-#### 5 Rollen in einem IT Projekt
-IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwortungen haben. Als Applikationsetnwicklung Lehrling werde ich hauptsächlich die Rolle Entwickler besetzen. In Zukunft will ich natürlich weiter kommen und Projektleiter werden.
+#### Fünf Rollen in einem IT Projekt
+IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantwortungen haben. Als Applikationsetnwicklungs Lehrling werde ich hauptsächlich die Rolle des Entwicklers besetzen. In Zukunft will ich natürlich weiter kommen und Projektleiter werden.
 <div class="panel panel-default">
 	<div class="panel-heading">Projektleiter</div>
 	<div class="panel-body">
-		<p>Verantwortliche des Projektes und verteilt die Aufgaben</p>
+		<p>ist verantwortlicher des Projekts und Verteiler der Aufgaben</p>
 	</div>
 	<table class="table">
 		<tr>

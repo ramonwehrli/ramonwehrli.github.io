@@ -6,7 +6,7 @@ categories: jekyll update
 test: "test"
 ---
 #### Mindmaps
-Um informationen schnell auf ein Blatt zu bekommen und zu ordnen sind Mindmaps mein Favorit. Die Visuelle Struktur hilft beim aufnehmen der Informationen. Leider kann es relativ aufwändig sein alles so vorzuplanen das man für jeden Zweig genug platz hat. Mindmaps können aber nicht überall verwendet werden, zum Beispiel für eine Mathezusammenfassung sind sie sehr ungeeignet.
+Um Informationen schnell auf ein Blatt zu bekommen und zu ordnen sind Mindmaps mein Favorit. Die visuelle Struktur hilft beim aufnehmen der Informationen. Leider kann es relativ aufwendig sein, alles so vorzuplanen, das man für jeden Zweig genug Platz hat. Mindmaps können aber nicht überall verwendet werden. Uum Beispiel für eine Mathezusammenfassung sind sie sehr ungeeignet.
 
 <div class="thumbnail">
 	<img src="https://infode.examtime.com/files/2012/11/Tipps-zum-Erstellen-von-Mindmaps.png" class="img-responsive">
@@ -18,7 +18,7 @@ Um informationen schnell auf ein Blatt zu bekommen und zu ordnen sind Mindmaps m
 </div>
 
 #### Brainstorming
-Bei Brainstorming geht es darum möglichst viele Ideen niederzuschreiben, dies benutze ich höchstens in verbindung mit Mindstorms, Zuerst Brainstorming und dann das niedergeschriebene in einem schönen Mindstorm auf dem PC strukturieren und auswerten.
+Bei Brainstorming geht es darum möglichst viele Ideen niederzuschreiben. Dies benutze ich höchstens in Verbindung mit Mindstorms, Zuerst Brainstorming und dann das Niedergeschriebene in einem schönen Mindstorm auf dem PC strukturieren und auswerten.
 <div class="thumbnail">
 	<img src="http://goalsandachievements.com/wp-content/uploads/2013/12/brainstorming-design-engine.png" class="img-responsive">
 	<p class="text-center">
@@ -29,6 +29,4 @@ Bei Brainstorming geht es darum möglichst viele Ideen niederzuschreiben, dies b
 </div>
 
 #### Reflexion
-In der Zukunft will ich noch vermehrt mit Mindmaps arbeiten und auch Zusammenfassungen damit schreiben. Informationen wie Webseiten können auch in einem Mindmap abgelegt werden da es Online Mindmap Tools gibt wie [Mindmeister].
-
-[Mindmeister]: <https://www.mindmeister.com/de>
+In Zukunft will ich noch vermehrt mit Mindmaps arbeiten und auch Zusammenfassungen damit schreiben. Informationen wie Webseiten, können auch in einem Mindmap abgelegt werden, da es Online Mindmap Tools gibt.

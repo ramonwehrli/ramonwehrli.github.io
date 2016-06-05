@@ -6,7 +6,7 @@ categories: jekyll update
 test: "test"
 ---
 #### 5 Rollen in einem IT Projekt
-IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwortungen haben. Als Applikationsetnwicklung Lehrling werde ich hauptsächlich die Rolle Entwickler besetzen. In der Zukunft will ich natürlich weiter kommen und Projektleiter werden.
+IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwortungen haben. Als Applikationsetnwicklung Lehrling werde ich hauptsächlich die Rolle Entwickler besetzen. In Zukunft will ich natürlich weiter kommen und Projektleiter werden.
 <div class="panel panel-default">
 	<div class="panel-heading">Projektleiter</div>
 	<div class="panel-body">
@@ -29,7 +29,7 @@ IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwo
 				<ul>
 					<li>Aufgaben erstellen</li>
 					<li>Zeitplan erstellen</li>
-					<li>Koordinierung des Teams</li>
+					<li>koordinierung des Teams</li>
 				</ul>
 			</td>
 		</tr>
@@ -39,7 +39,7 @@ IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwo
 			</td>
 			<td>
 				<ul>
-					<li>Gesamte Verantwortung für das Projekt.</li>
+					<li>gesamte Verantwortung für das Projekt.</li>
 				</ul>
 			</td>
 		</tr>
@@ -57,7 +57,7 @@ IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwo
 			<td>
 				<ul>
 					<li>Entwicklung des Projekts</li>
-					<li>Schreiben der Dokumentation</li>
+					<li>schreiben der Dokumentation</li>
 				</ul>
 			</td>
 		</tr>
@@ -73,7 +73,7 @@ IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwo
 			<td>Verantwortung</td>
 			<td>
 				<ul>
-					<li>Gut geschriebenes Programm</li>
+					<li>gut geschriebenes Programm</li>
 					<li>Programm besitzt erforderte Funktionen</li>
 				</ul>
 			</td>
@@ -109,7 +109,7 @@ IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwo
 			<td>
 				<ul>
 					<li>Produkt zu verbessern</li>
-					<li>Keine Fehler durchgehen lassen</li>
+					<li>keine Fehler durchgehen lassen</li>
 				</ul>
 			</td>
 		</tr>
@@ -126,7 +126,7 @@ IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwo
 			<td>Aufgabe</td>
 			<td>
 				<li>Systemkomponenten definieren</li>
-				<li>Schnitstellen entwerfen</li>
+				<li>Schnittstellen entwerfen</li>
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +139,7 @@ IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwo
 		<tr>
 			<td>Verantwortung</td>
 			<td>
-				<li>Technische Verantwortung</li>
+				<li>technische Verantwortung</li>
 				<li>Architekturvorgaben einhalten</li>
 			</td>
 		</tr>
@@ -156,9 +156,9 @@ IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwo
 			<td>Aufgabe</td>
 			<td>
 				<ul>
-					<li>Gibt Projektauftrag</li>
-					<li>Wählt Eigenschaften von Projekt</li>
-					<li>Benutzt das Projekt schlussendlich</li>
+					<li>gibt Projektauftrag</li>
+					<li>wählt Eigenschaften von Projekt</li>
+					<li>benutzt das Projekt schlussendlich</li>
 				</ul>
 			</td>
 		</tr>
@@ -166,7 +166,7 @@ IT Projekte besitzen viele Rollen welche alle Aufgaben, Kompetenzen und Verantwo
 			<td>Kompetenz</td>
 			<td>
 				<ul>
-					<li>Ausreichend Finanzielle Mittel</li>
+					<li>ausreichend Finanzielle Mittel</li>
 					<li>Auftrag aufgeben</li>
 				</ul>
 			</td>

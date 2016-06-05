@@ -7,12 +7,12 @@ test: "test"
 picture: "1.jpeg"
 ---
 #### Aufbauorganisation
-Eine Aufbauorganisation kann z.B. das hierarchische Gerüst von einer Firma darstellen. Sie legt Bedingungen für Aufgaben und Zuständigkeiten fest. Ein Beispiel für ein hierarchisches Gerüst, in diesem Fall Organigramm, ist dass unseres Lehrbetriebs [VRSG].
+Eine Aufbauorganisation kann z.B. das hierarchische Gerüst von einer Firma darstellen. Sie legt Bedingungen für Aufgaben und Zuständigkeiten fest. Ein Beispiel für ein hierarchisches Gerüst, in diesem Fall ein Organigramm, unseres Lehrbetriebs [VRSG].
 
 #### Ablauforganisation
 Die Ablauforganisation ist der Ablauf von Arbeitsprozessen. Hier werden Raum, Sachmittel, Zeit und Personen berücksichtigt.
 
-Bei der Arbeit muss ich im Moment ein Webapp schreiben mit dem man Flowcharts generieren kann. Flowcharts können benutzt werden um Arbeitsprozesse darzustellen.
+Bei der Arbeit muss ich im Moment eine Webapp schreiben, mit der man Flowcharts generieren kann. Flowcharts können benutzt werden um Arbeitsprozesse darzustellen.
 
 <div class="thumbnail">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/2000px-LampFlowchart.svg.png" alt="Flowchart Bespiel" class="img-responsive">

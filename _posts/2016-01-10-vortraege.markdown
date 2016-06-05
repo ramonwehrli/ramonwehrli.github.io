@@ -10,7 +10,7 @@ Der Problemlösezyklus ist sehr praktisch und ich verwende ihn oft. Ich habe oft
 Hier kann dieser Zyklus echt helfen. Diese Methode kannte ich zum Glück schon vor der Präsentation.
 
 ####Verschiedene Lernmethoden
-Bei den verschiedenen Lernmethoden finde ich Mindmaps toll, falls diese sich anbieten. Ansonsten verwende ich gerne Zusammenfassungen. Mit Karteikarten kann ich leider nicht sehr viel anfange, da ich diese zu "fad" finde.
+Bei den verschiedenen Lernmethoden finde ich Mindmaps toll, falls diese sich anbieten. Ansonsten verwende ich gerne Zusammenfassungen. Mit Karteikarten kann ich leider nicht sehr viel anfange, da ich diese zu langweilig finde.
 
 ####Lernvertrag/Lernjournal
 Der Lernvertrag ist nichts für mich, denn hier kann man relativ einfach das Vorgegebene nicht machen. Jedoch finde ich das Lernjournal nicht schlecht, welches auch sehr gross ist bei mir gut.

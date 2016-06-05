@@ -5,16 +5,16 @@ date:   2016-03-01 14:07:00 +0100
 categories: jekyll update
 test: "test"
 ---
-##### Beischreibung des IPERKA Models mit praktischen Bespielen.
+##### Beischreibung des IPERKA Modells mit praktischen Bespielen
 #### Informationen beschaffen
 Hier werden Informationen zum Projekt gesammelt. Meist wird hier ein Kunde befragt.
-Die Fragen sollten möglichst konkret sein, so dass sie von jedem Interpretiert werden können. Das gleiche
+Die Fragen sollten möglichst konkret sein, so dass sie von jedem interpretiert werden können. Das gleiche
 gilt für die Antworten. Hier wird z.B. das Budget bestimmt, über das der Kunden verfügt. Man könnte
 sich aber auch über neue Software informieren, die man benutzen möchte. Hier kann vor allem [Google]
 als Tool hilfreich sein.
 
 #### Planung
-Hier könnte das Budget reingehören, falls man dafür keine Vorgabe hat. Wenn man dieses jedoch vorgegeben hat, müsste man hier planen, wie viele Arbeiter und Stunden dieser benutzt. Auch könnte man hier verschiedene Setups einplanen, die passen könnten z.B. bei einem neuen Haus und dessen Farbkombinationen.
+Hier könnte das Budget reingehören, falls man dafür keine Vorgabe hat. Wenn man dieses jedoch vorgegeben hat, müsste man hier planen, wie viele Arbeitsstunden der Auftrag ergibt. Man könnte hier auch verschiedene Setups einplanen, die passen könnten z.B. bei einem neuen Haus und dessen Farbkombinationen.
 
 #### Entscheidung
 Wenn man sich im obersten Bereich über neue Software informiert hat, wird man wahrscheinlich merken, dass es

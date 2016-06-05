@@ -6,7 +6,7 @@ categories: jekyll update
 test: "test"
 ---
 ####Problemlösezyklus: 
-Der Problemlösezyklus ist sehr praktisch und ich verwende ihn oft. Ich habe oft kleinere Computer Probleme. Diese sollte man möglichst effizient durchgehen, ohne kleinere Fehler zu machen und dann von vorne beginnen zu müssen.
+Der Problemlösezyklus ist sehr praktisch. Ich verwende ihn oft. Ich habe oft kleinere Computer Probleme. Diese sollte man möglichst effizient durchgehen, ohne kleinere Fehler zu machen und dann von vorne beginnen zu müssen.
 Hier kann dieser Zyklus echt helfen. Diese Methode kannte ich zum Glück schon vor der Präsentation.
 
 ####Verschiedene Lernmethoden

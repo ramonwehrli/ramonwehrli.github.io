@@ -29,4 +29,4 @@ Bei Brainstorming geht es darum, möglichst viele Ideen niederzuschreiben. Ich b
 </div>
 
 #### Reflexion
-In Zukunft will ich noch vermehrt mit Mindmaps arbeiten und auch Zusammenfassungen damit schreiben. Informationen wie Webseiten, können auch in einem Mindmap abgelegt werden, da es Online Mindmap Tools gibt.
+In Zukunft will ich vermehrt mit Mindmaps arbeiten und auch Zusammenfassungen damit schreiben. Informationen wie Webseiten, können auch in einem Mindmap abgelegt werden da es Online Mindmap Tools gibt.

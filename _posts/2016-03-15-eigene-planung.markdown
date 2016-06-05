@@ -18,7 +18,7 @@ test: "test"
 
 ##### Die ALPEN Methode
 
-Im Moment plane ich meinen Tag mit dem Projektmanagment Tool Openproject. Dort mache ich mir Tasks und schätze die Zeit. Man kann für diese dann auch Prioritäten setzen und den Fortschritt speichern. Im Nachhinein buche ich dann noch die Zeit, die ich wirklich gebraucht habe.
+Im Moment plane ich meinen Tag mit dem Projektmanagment Tool Openproject. Dort mache ich mir Tasks und schätze die Zeit. Man kann für diese dann auch Prioritäten setzen und den Fortschritt speichern. Im nachhinein buche ich dann noch die Zeit, die ich wirklich gebraucht habe.
 
 <div class="thumbnail">
 	<img src="http://www.landsiedel-seminare.de/images/alpen-methode.jpg" class="img-responsive">
@@ -27,7 +27,7 @@ Im Moment plane ich meinen Tag mit dem Projektmanagment Tool Openproject. Dort m
 	</p>
 </div>
 
-Eine Woche lang habe ich meine Planung mit der ALPEN-Methode gemacht. Diese weisst eine grosse Ähnlichkeiten mit dem auf, was ich bis jetzt mache. Bei der ALPEN Methode muss ich die Prioritäten setzen, was ich bei mir auslassen kann. Nur 60% der Arbeitszeit einplanen, ist natürlich ein bisschen spezifischer, wie einfach direkt die Zeit schätzen.
+Eine Woche lang habe ich meine Planung mit der ALPEN-Methode gemacht. Diese weist eine grosse Ähnlichkeiten mit dem auf, was ich bis jetzt mache. Bei der ALPEN Methode muss ich die Prioritäten setzen. Nur 60% der Arbeitszeit einplanen, ist natürlich ein bisschen spezifischer, wie einfach direkt die Zeit schätzen.
 
 ##### Erfahrungen
 Weil ich nur 60% verplant hatte von meinen Tagen, musste ich oft neue Aufgaben eintragen weil ich übrige Zeit hatte. Ich fand auch das Prioritäten setzen im Moment nicht sehr nützlich für mich. Meine Aufgaben bauen aufeinander auf. Somit hat eine Aufgabe immer Priorität und muss zuerst erledigt werden.

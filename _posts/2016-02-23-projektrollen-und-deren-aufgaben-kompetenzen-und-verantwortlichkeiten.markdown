@@ -49,7 +49,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 <div class="panel panel-default">
 	<div class="panel-heading">Entwickler</div>
 	<div class="panel-body">
-		<p>Ist der eigentliche Produzent eines IT-Projekts.</p>
+		<p>Eigentlicher Produzent eines IT-Projekts</p>
 	</div>
 	<table class="table">
 		<tr>
@@ -65,7 +65,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			<td>Kompetenzen</td>
 			<td>
 				<ul>
-					<li>qßualifiziert für das Projekt</li>
+					<li>qualifiziert für das Projekt</li>
 				</ul>
 			</td>
 		</tr>
@@ -84,7 +84,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 <div class="panel panel-default">
 	<div class="panel-heading">Tester</div>
 	<div class="panel-body">
-		<p>Testet das Produkt.</p>
+		<p>testet das Produkt</p>
 	</div>
 	<table class="table">
 		<tr>
@@ -119,7 +119,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 <div class="panel panel-default">
 	<div class="panel-heading">IT-Architekt</div>
 	<div class="panel-body">
-		<p>Entwirft die Architektur des Projektes</p>
+		<p>entwirft die Architektur des Projektes</p>
 	</div>
 	<table class="table">
 		<tr>
@@ -149,7 +149,7 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 <div class="panel panel-default">
 	<div class="panel-heading">Auftraggeber</div>
 	<div class="panel-body">
-		<p>Erteilt den Auftrag.</p>
+		<p>erteilt den Auftrag</p>
 	</div>
 	<table class="table">
 		<tr>

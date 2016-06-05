@@ -166,8 +166,8 @@ IT Projekte besitzen viele Rollen, welche alle Aufgaben, Kompetenzen und Verantw
 			<td>Kompetenzen</td>
 			<td>
 				<ul>
-					<li>ausreichend Finanzielle Mittel zur verfügung</li>
-					<li>Auftrag aufgeben</li>
+					<li>ausreichend finanzielle Mittel zur verfügung</li>
+					<li>Auftrag erteilen</li>
 				</ul>
 			</td>
 		</tr>

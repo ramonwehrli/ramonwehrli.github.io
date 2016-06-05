@@ -12,7 +12,7 @@ Da ich im im [BLJ] bin, bekomme ich jede Woche ein "Ämtli" zugeteilt. Dieses be
 Danach müssen wir diesen Auftrag fertigstellen. In diesem Fall den Code auf [Moodle] abgeben.
 
 #### Unterschied Aufgabe, Auftrag
-Für mich liegt der Unterschied zwischen Aufgaben und Aufträgen in der Regelmässigkeit. Aufgaben wiederholen sich meist regelmässig bei uns z.B. jeden Freitag die "Ämtli" zu machen. Äuftrage jedoch sind einmalige Aufgaben oder spezielle Aufgaben die selten vorkommen.
+Für mich liegt der Unterschied zwischen Aufgaben und Aufträgen in der Regelmässigkeit. Aufgaben wiederholen sich meist regelmässig, bei uns z.B. jeden Freitag die "Ämtli" zu machen. Äuftrage jedoch sind einmalige Aufgaben oder spezielle Aufgaben die selten vorkommen.
 
 #### Vermehrt Aufgaben oder Aufträge 
 Bei uns im [BLJ], wie schon voher erwähnt, wird vor allem Gewicht auf Äuftrage gegeben. Diese können wir im [Moodle] nachschauen und danach lösen. Meistens müssen wir eine Dokumentation oder andere Dokumente abgeben.

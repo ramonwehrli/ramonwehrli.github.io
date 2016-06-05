@@ -13,12 +13,16 @@ Hier kann dieser Zyklus echt helfen. Diese Methode kannte ich zum Glück schon v
 Bei den verschiedenen Lernmethode bin ich echt ein Fan von Mindmaps falls diese sich anbieten und wenn nicht dann Zusammenfassungen. Mit Karteikarten kann ich leider nicht sehr viel anfange da ich diese zu "fad" finde.
 
 ####Lernvertrag/Lernjournal
-Der Lernvertrag ist nichts für mich denn hier kann man relativ einfach das Vorgegebene nicht machen.
+Der Lernvertrag ist nichts für mich, denn hier kann man relativ einfach das Vorgegebene nicht machen. Jedoch finde ich das Lernjournal nicht schlecht, welches auch sehr gross ist bei mir gut.
 
 ####Brainstorming
+Brainstorming aleine ist nichts für mich aber ich benutze es sehr gerne mit Mindmaps, da man beim Brainstorming einfach besser voran kommt. Nach dem Brainstorming erstelle ich dann am Computer einfach ein schönes Mindmap.
 
 ####Brainwriting 635
+Ich persönlich bin kein grosser Fan von Brainwriting da es für mich einfach nicht funktioniert. Die vorgegeben Zeit finde ich sehr störend und man kann sich viel zu leicht ablenken lassen.
 
 ####Morphologischer Kasten
+Das gleiche Problem sehe ich auch hier und zwar dass man zu schnell auf Abstrakte Ideen kommt.
 
 ####Mindmap
+Ich bin ein Riesen Fan von Mindmaps vor allem solche die am Computer erstellt werden. Sie sind einfach zu verwalten und danach auch einfach zulesen. Ein absoluter Favorit von mir. 

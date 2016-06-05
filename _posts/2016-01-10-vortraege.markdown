@@ -19,7 +19,7 @@ Der Lernvertrag ist nichts für mich, denn hier ist es relativ einfach, dass Vor
 Brainstorming allein ist nichts für mich. Ich benutze es aber sehr gerne mit Mindmaps, da man beim Brainstorming einfach besser voran kommt. Nach dem Brainstorming erstelle ich dann am Computer einfach ein schönes Mindmap.
 
 ####Brainwriting 635
-Ich persönlich bin kein grosser Fan von Brainwriting da es für mich einfach nicht funktioniert. Die vorgegeben Zeit finde ich sehr störend und man kann sich viel zu leicht ablenken lassen.
+Ich persönlich bin kein grosser Fan von Brainwriting, da es für mich einfach nicht funktioniert. Die vorgegeben Zeit finde ich sehr störend und man kann sich viel zu leicht ablenken lassen.
 
 ####Morphologischer Kasten
 Das gleiche Problem sehe ich auch hier und zwar dass man zu schnell auf Abstrakte Ideen kommt.
